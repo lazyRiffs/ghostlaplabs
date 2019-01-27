@@ -1,2 +1,0 @@
-# ghostlaplabs
-A blog
