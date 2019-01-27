@@ -1,0 +1,21 @@
+#+TITLE: shell-profiles
+#+DATE: 2019-01-27
+#+TAGS:
+#+INFOJS_OPT: view:t toc:t ltoc:t mouse:underline buttons:0 path:http://thomasf.github.io/solarized-css/org-info.min.js
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
+
+One of the principles of orgmode is "everything in plaintext" -- you can see Carsten Dominik talk about this here [insert google talk link] -- and this becomes especially powerful as you craft your workflow more and more around working from a shell.
+
+An essential skill/piece of working from a shell is developing an easily-maintained, source-controlled, and modular set of profile scripts.
+
+** On the automation sysadmin
+I think I have a link to this somewhere. And I'm going to plaintext my way find it.
+ Manual work is a bug
+
+That took way too long to dig up. Why is it not its own note, with tags and proper names and aliases (I keep searching for "A Tale of Two Sysadmins" &#x2013; but I totally forgot the takeaway thesis here was Manual work is a bug.)
+
+** General overview of "profile scripts"
+** How to keep them modular
+Remember, put everything under source control.
+** Powershell
+** Bash
