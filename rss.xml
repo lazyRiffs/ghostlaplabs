@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>org-page</title>
+    <link>http://luxmachines.azure-websites.net/labs/</link>
+    <description>static site generator</description>
+    <pubDate>Sun, 27 Jan 2019 14:19:21 Eastern Standard Time</pubDate>
+    <lastBuildDate>Sun, 27 Jan 2019 14:19:21 Eastern Standard Time</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Untitled</title>
+      <link>http://luxmachines.azure-websites.net/labs/blog/2019/01/27/untitled/</link>
+      <description><![CDATA[<div>
+<div class="post">
+<h1>Untitled</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgc90c711">1. ghostlaplabs</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc90c711" class="outline-2">
+<h2 id="orgc90c711"><span class="section-number-2">1</span> ghostlaplabs</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+A blog
+</p>
+</div>
+</div>
+
+</div>
+</div>]]></description>
+      <pubDate>2019-01-27</pubDate>
+      <guid>http://luxmachines.azure-websites.net/labs/blog/2019/01/27/untitled/</guid>
+    </item>
+    <item>
+      <title>shell-scripts</title>
+      <link>http://luxmachines.azure-websites.net/labs/blog/2019/01/27/shell-scripts/</link>
+      <description><![CDATA[<div>
+<div class="post">
+<h1>shell-scripts</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgd3462dc">1. On the automation sysadmin</a></li>
+<li><a href="#org17f7b3f">2. General overview of "profile scripts"</a></li>
+<li><a href="#org55e8c3e">3. How to keep them modular</a></li>
+<li><a href="#orgd5c1a46">4. Powershell</a></li>
+<li><a href="#org8fb1ba9">5. Bash</a></li>
+</ul>
+</div>
+</div>
+<p>
+One of the principles of orgmode is "everything in plaintext" &#x2013; you can see Carsten Dominik talk about this here [__<sub>insert</sub> google talk link___] &#x2013; and this becomes especially powerful as you craft your workflow more and more around working from a shell.
+</p>
+
+<p>
+An essential skill/piece of working from a shell is developing an easily-maintained, source-controlled, and modular set of profile scripts.
+</p>
+
+<div id="outline-container-orgd3462dc" class="outline-2">
+<h2 id="orgd3462dc"><span class="section-number-2">1</span> On the automation sysadmin</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+I think I have a link to this somewhere. And I'm going to plaintext my way find it.
+ <a href="https://queue.acm.org/detail.cfm?id=3197520">Manual work is a bug</a>
+</p>
+
+<p>
+That took way too long to dig up. Why is it not its own note, with tags and proper names and aliases (I keep searching for "A Tale of Two Sysadmins" &#x2013; but I totally forgot the takeaway thesis here was Manual work is a bug.)
+</p>
+</div>
+</div>
+
+<div id="outline-container-org17f7b3f" class="outline-2">
+<h2 id="org17f7b3f"><span class="section-number-2">2</span> General overview of "profile scripts"</h2>
+</div>
+
+<div id="outline-container-org55e8c3e" class="outline-2">
+<h2 id="org55e8c3e"><span class="section-number-2">3</span> How to keep them modular</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li>Remember, put everything under source control.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgd5c1a46" class="outline-2">
+<h2 id="orgd5c1a46"><span class="section-number-2">4</span> Powershell</h2>
+</div>
+
+<div id="outline-container-org8fb1ba9" class="outline-2">
+<h2 id="org8fb1ba9"><span class="section-number-2">5</span> Bash</h2>
+</div>
+
+</div>
+</div>]]></description>
+      <pubDate>2019-01-27</pubDate>
+      <guid>http://luxmachines.azure-websites.net/labs/blog/2019/01/27/shell-scripts/</guid>
+    </item>
+    <item>
+      <title>shell-scripts</title>
+      <link>http://luxmachines.azure-websites.net/labs/blog/2019/01/27/shell-scripts/</link>
+      <description><![CDATA[<div>
+<div class="post">
+<h1>shell-scripts</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org9e0ea2a">1. On the automation sysadmin</a></li>
+<li><a href="#orgcc4b902">2. General overview of "profile scripts"</a></li>
+<li><a href="#orgef98676">3. How to keep them modular</a></li>
+<li><a href="#orgc526ffd">4. Powershell</a></li>
+<li><a href="#org22b88e7">5. Bash</a></li>
+</ul>
+</div>
+</div>
+<p>
+One of the principles of orgmode is "everything in plaintext" &#x2013; you can see Carsten Dominik talk about this here [__<sub>insert</sub> google talk link___] &#x2013; and this becomes especially powerful as you craft your workflow more and more around working from a shell.
+</p>
+
+<p>
+An essential skill/piece of working from a shell is developing an easily-maintained, source-controlled, and modular set of profile scripts.
+</p>
+
+<div id="outline-container-org9e0ea2a" class="outline-2">
+<h2 id="org9e0ea2a"><span class="section-number-2">1</span> On the automation sysadmin</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+I think I have a link to this somewhere. And I'm going to plaintext my way find it.
+ <a href="https://queue.acm.org/detail.cfm?id=3197520">Manual work is a bug</a>
+</p>
+
+<p>
+That took way too long to dig up. Why is it not its own note, with tags and proper names and aliases (I keep searching for "A Tale of Two Sysadmins" &#x2013; but I totally forgot the takeaway thesis here was Manual work is a bug.)
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc4b902" class="outline-2">
+<h2 id="orgcc4b902"><span class="section-number-2">2</span> General overview of "profile scripts"</h2>
+</div>
+
+<div id="outline-container-orgef98676" class="outline-2">
+<h2 id="orgef98676"><span class="section-number-2">3</span> How to keep them modular</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li>Remember, put everything under source control.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc526ffd" class="outline-2">
+<h2 id="orgc526ffd"><span class="section-number-2">4</span> Powershell</h2>
+</div>
+
+<div id="outline-container-org22b88e7" class="outline-2">
+<h2 id="org22b88e7"><span class="section-number-2">5</span> Bash</h2>
+</div>
+
+</div>
+</div>]]></description>
+      <pubDate>2019-01-27</pubDate>
+      <guid>http://luxmachines.azure-websites.net/labs/blog/2019/01/27/shell-scripts/</guid>
+    </item>
+  </channel>
+</rss>
